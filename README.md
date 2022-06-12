@@ -1,7 +1,4 @@
-# Status of the project
-
-## Development
-This project is now developed as part of the [AI Navigation](https://docs.unity3d.com/Packages/com.unity.ai.navigation@latest) package. Please add that package to your project in order to continue building the NavMesh using these components and to get access to newer versions.
+mijgkuj
 
 The content of this repository remains available for older Unity versions but no further development will be made here.
 
